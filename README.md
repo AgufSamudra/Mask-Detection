@@ -8,4 +8,4 @@ Bisa langsung di buka file ipynb nya, untuk melihat proses pembuatan nya.
 
 # Hasil Output
 
-![SS Hasil](Screenshot (162).png)
+![SS Hasil](masker.png)
